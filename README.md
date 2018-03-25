@@ -35,6 +35,7 @@
 - [The Ethereum Wiki](https://theethereum.wiki/w/index.php/Main_Page) *(English)*
 - [以太坊设计原理](http://ethfans.org/posts/510)
 - [以太坊Dapp开发入门](http://me.tryblockchain.org/getting-up-to-speed-on-ethereum.html)
+- [以太坊Dapp开发入门教程](http://http://xc.hubwiz.com/course/5a952991adb3847553d205d1?affid=20180325github)
 - [以太坊Gas使用](https://hackernoon.com/ether-purchase-power-df40a38c5a2f) Calculating Costs in Ethereum Contracts *(English)*
 - [以太坊代码剖析](http://ethfans.org/topics/227)
 - [以太坊源码阅读](http://www.cnblogs.com/baizx/category/1011749.html)
